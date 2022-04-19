@@ -1,8 +1,8 @@
 # M2_Power_measurement
 
-![Codiga Score](https://api.codiga.io/project/32872/score/svg)
+![Codiga Score](https://api.codiga.io/project/32872/score/svg)   ![Codiga Grade](https://api.codiga.io/project/32872/status/svg)
 
-![Codiga Grade](https://api.codiga.io/project/32872/status/svg)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/ebc9b8470da84cf2b0d1d3493cedc3ef)](https://www.codacy.com/gh/GuptaJuluri22/M2_Power_measurement/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GuptaJuluri22/M2_Power_measurement&amp;utm_campaign=Badge_Grade)
 
 [![Code Quality - Cppcheck](https://github.com/GuptaJuluri22/M2_Power_measurement/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/GuptaJuluri22/M2_Power_measurement/actions/workflows/c-cpp.yml)
 
