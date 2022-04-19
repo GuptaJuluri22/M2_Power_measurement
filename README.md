@@ -7,3 +7,5 @@
 [![Code Quality - Cppcheck](https://github.com/GuptaJuluri22/M2_Power_measurement/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/GuptaJuluri22/M2_Power_measurement/actions/workflows/c-cpp.yml)
 
 [![Build_CI - Linux](https://github.com/GuptaJuluri22/M2_Power_measurement/actions/workflows/linux.yml/badge.svg)](https://github.com/GuptaJuluri22/M2_Power_measurement/actions/workflows/linux.yml)
+
+[![Bulid CI - windows](https://github.com/GuptaJuluri22/M2_Power_measurement/actions/workflows/windows.yml/badge.svg)](https://github.com/GuptaJuluri22/M2_Power_measurement/actions/workflows/windows.yml)
