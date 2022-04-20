@@ -11,3 +11,8 @@
 [![Bulid CI - windows](https://github.com/GuptaJuluri22/M2_Power_measurement/actions/workflows/windows.yml/badge.svg)](https://github.com/GuptaJuluri22/M2_Power_measurement/actions/workflows/windows.yml)
 
 [![Git Inspector](https://github.com/GuptaJuluri22/M2_Power_measurement/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/GuptaJuluri22/M2_Power_measurement/actions/workflows/gitinspector.yml)
+
+
+| OFF | ON |
+| --- | --- |
+|  |   |
