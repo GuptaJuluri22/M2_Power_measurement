@@ -13,5 +13,8 @@ These are the only four things we need to know to getting started with ADC. All 
 
 ![adc](https://user-images.githubusercontent.com/101310082/164171161-ee18e285-9848-487b-a6c2-605287759baf.jpg)
 
+## block diagram
+![basic-block-diagram](https://user-images.githubusercontent.com/101310082/164172008-2429a89d-eba2-49a9-abc2-a7f231e5d566.svg)
+
 
 
