@@ -50,3 +50,12 @@ Purchase from store and DIY or Professional Installation
 | HR03 |	User shall be able to convert one number system to other. |	Technical	Implemented |
 | HR04 |	User shall be able to get the equivalent value in other number system. |	Technical	Implemented |
 | HR05 |	User shall be able to get the desired output |	Technical	Implemented |
+
+### Low Level Requirements:
+
+| ID |	Description	| HLR ID	| Status (Implemented/Future) |
+| --- | ------- | --- | --- |
+| LR01 |	(1). User must choose the option for the convertion to start. |	HR01 |	Implemented |
+| LR02 |	User must give the correct option. | HR02 |	Implemented |
+| LR03 |	User must give the relevent inputs.	| HR03 |	Implemented |
+| LR04 |	User desired Output. |	HR04 |	Implemented |
