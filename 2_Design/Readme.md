@@ -11,3 +11,7 @@ For any ADC, frequency of conversion (Analog value to Digital value) and accurac
 
 These are the only four things we need to know to getting started with ADC. All the above four features are set by two registers.
 
+![adc](https://user-images.githubusercontent.com/101310082/164171161-ee18e285-9848-487b-a6c2-605287759baf.jpg)
+
+
+
