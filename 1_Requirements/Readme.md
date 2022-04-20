@@ -45,8 +45,8 @@ Purchase from store and DIY or Professional Installation
 ### High level requirements:
 | ID |	Description	Category	| Status |
 | --- | ------| --- |
-HR01	User shall be able to determine from which number system to which it should be converted.	Technical	Implemented
-HR02	User shall be able to differentiate the input given.	Technical	Implemented
-HR03	User shall be able to convert one number system to other	Technical	Implemented
-HR04	User shall be able to get the equivalent value in other number system	Technical	Implemented
-HR05	User shall be able to get the desired output	Technical	Implemented
+| HR01 |	User shall be able to determine from which number system to which it should be converted. |	Technical	Implemented |
+| HR02 |	User shall be able to differentiate the input given. |	Technical	Implemented |
+| HR03 |	User shall be able to convert one number system to other. |	Technical	Implemented |
+| HR04 |	User shall be able to get the equivalent value in other number system. |	Technical	Implemented |
+| HR05 |	User shall be able to get the desired output |	Technical	Implemented |
