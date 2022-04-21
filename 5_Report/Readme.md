@@ -5,9 +5,6 @@
 
 We can see a person standing in front of our house from electricity board, whose duty is to read the energy meter and handover the bills to the owner of that house every month. This is nothing but meter reading. According to that reading we have to pay the bills.
 
-
-# M2_Power_measurement
-
 # Requirements
 # Introduction
 In this project the user can help user retro fit a smart engergy meter on top of the exisinting system.
@@ -66,4 +63,24 @@ Purchase from store and DIY or Professional Installation
 | LR02 |	User must give the correct option. | HR02 |	Implemented |
 | LR03 |	User must give the relevent inputs.	| HR03 |	Implemented |
 | LR04 |	User desired Output. |	HR04 |	Implemented |
+
+
+1.First of all we need to enable the ADC feature in ADC.
+
+Since we are measuring room temperature, we don’t really need values beyond hundred degrees (1000mV output of LM35). So we can set up maximum value or reference of ADC to 2.5V.
+
+The controller has a trigger conversion feature, that means ADC conversion takes place only after an external trigger, since we don’t want that we need to set the registers for the ADC to run in continuous free running mode.
+
+For any ADC, frequency of conversion (Analog value to Digital value) and accuracy of digital output are inversely proportional. So for better accuracy of digital output we have to choose lesser frequency. For lesser ADC clock we are setting the presale of ADC to maximum value (128). Since we are using the internal clock of 1MHZ, the clock of ADC will be (1000000/128).
+
+These are the only four things we need to know to getting started with ADC. All the above four features are set by two registers.
+
+![adc](https://user-images.githubusercontent.com/101310082/164171161-ee18e285-9848-487b-a6c2-605287759baf.jpg)
+
+## block diagram
+![basic-block-diagram](https://user-images.githubusercontent.com/101310082/164172008-2429a89d-eba2-49a9-abc2-a7f231e5d566.svg)
+
+
+
+
 
