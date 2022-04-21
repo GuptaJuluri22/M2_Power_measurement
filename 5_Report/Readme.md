@@ -80,6 +80,21 @@ These are the only four things we need to know to getting started with ADC. All 
 ## block diagram
 ![basic-block-diagram](https://user-images.githubusercontent.com/101310082/164172008-2429a89d-eba2-49a9-abc2-a7f231e5d566.svg)
 
+| OFF | ON |
+| --- | --- |
+| <img src="6_Images&Videos/OFF.png" width="400"> | <img src="6_Images&Videos/ON.1.png" width="400"> |
+
+
+#Folder Structure :
+| Folder_Name |	Description |
+| --- | ----- |
+| 1_Reuriments |	Documents detailing requirements and research |
+| 2_Design |	Documents specifying design |
+| 3_Implemenation	| All codes and Documentation |
+| 4_Testplan |	Documents with test plans |
+| 5_Report |	Documentation of whole project |
+| 6_Images |	All the images of this project |
+
 
 
 
