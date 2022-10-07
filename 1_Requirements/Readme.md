@@ -55,7 +55,7 @@ Purchase from store and DIY or Professional Installation
 
 | ID |	Description	| HLR ID	| Status (Implemented/Future) |
 | --- | ------- | --- | --- |
-| LR01 |	(1). User must choose the option for the convertion to start. |	HR01 |	Implemented |
+| LR01 | User must choose the option for the convertion to start. |	HR01 |	Implemented |
 | LR02 |	User must give the correct option. | HR02 |	Implemented |
 | LR03 |	User must give the relevent inputs.	| HR03 |	Implemented |
 | LR04 |	User desired Output. |	HR04 |	Implemented |
